@@ -1,3 +1,3 @@
-wooden staff, 10,
-iron staff, 15,
-diamond staff, 20,
+baton de bois, 10,
+baton en fer, 15,
+baton en diamant, 20,
