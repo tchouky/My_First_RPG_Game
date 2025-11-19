@@ -1,3 +1,3 @@
-wooden bow,10,
-iron bow,15,
-diamond bow,20,
+arc en bois,10,
+arc en fer,15,
+arc en diamant,20,
