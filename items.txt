@@ -1,2 +1,2 @@
-4 Leaf clover,5,luck,
-health potion,10,health,
+Trèfle à 4 feuilles,5,luck,
+potion de santé,10,health,
